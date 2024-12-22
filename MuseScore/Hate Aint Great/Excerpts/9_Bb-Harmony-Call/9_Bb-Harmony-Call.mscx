@@ -2,9 +2,9 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>2055766</LastEID>
+  <LastEID>2234542</LastEID>
   <Score>
-    <eid>8704043283120132</eid>
+    <eid>9472047860154372</eid>
     <name>B♭-Harmony-Call</name>
     <initialPartId>6</initialPartId>
     <Division>480</Division>
@@ -85,7 +85,7 @@
               </location>
             </linked>
           <style>subtitle</style>
-          <text>December 2, 2024</text>
+          <text>December 8, 2024</text>
           </Text>
         <Text>
           <eid>384592846520325</eid>
@@ -897,19 +897,17 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>315332203905064</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>1427617064419444</eid>
                 <linked>
                   </linked>
                 <positionLinkedToMaster>0</positionLinkedToMaster>
+                <SlurSegment no="0">
+                  <o4 x="-5.27462" y="-0.799185"/>
+                  <eid>8884762622033929</eid>
+                  <positionLinkedToMaster>0</positionLinkedToMaster>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1269,12 +1267,12 @@ Don B.A. Hader</text>
               <linked>
                 </linked>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
-                <eid>387448999772176</eid>
+                <subtype>accidentalNatural</subtype>
+                <eid>9074668895993872</eid>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>23</tpc>
-              <tpc2>25</tpc2>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1292,10 +1290,6 @@ Don B.A. Hader</text>
               <eid>387487654477844</eid>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                <eid>387491949445136</eid>
-                </Accidental>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <tpc2>18</tpc2>

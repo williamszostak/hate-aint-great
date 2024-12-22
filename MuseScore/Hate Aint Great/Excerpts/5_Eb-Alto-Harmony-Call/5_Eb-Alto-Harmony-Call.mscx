@@ -2,9 +2,9 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>2053307</LastEID>
+  <LastEID>2232084</LastEID>
   <Score>
-    <eid>8669984192462852</eid>
+    <eid>9438048899039236</eid>
     <name>E♭-Alto-Harmony-Call</name>
     <initialPartId>10</initialPartId>
     <Division>480</Division>
@@ -295,7 +295,7 @@
               </location>
             </linked>
           <style>subtitle</style>
-          <text>December 2, 2024</text>
+          <text>December 8, 2024</text>
           </Text>
         <Text>
           <eid>913702752616453</eid>
@@ -1107,18 +1107,17 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>1699892221181992</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>1700828524052596</eid>
                 <linked>
                   </linked>
+                <positionLinkedToMaster>0</positionLinkedToMaster>
+                <SlurSegment no="0">
+                  <o4 x="-5.5943" y="-0.319674"/>
+                  <eid>8820101889392649</eid>
+                  <positionLinkedToMaster>0</positionLinkedToMaster>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1478,12 +1477,12 @@ Don B.A. Hader</text>
               <linked>
                 </linked>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
-                <eid>916515956195344</eid>
+                <subtype>accidentalNatural</subtype>
+                <eid>9205115642707984</eid>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>23</tpc>
-              <tpc2>26</tpc2>
+              <tpc>11</tpc>
+              <tpc2>14</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -1501,10 +1500,6 @@ Don B.A. Hader</text>
               <eid>916550315933716</eid>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                <eid>916554610901008</eid>
-                </Accidental>
               <pitch>62</pitch>
               <tpc>16</tpc>
               <tpc2>19</tpc2>
@@ -2630,13 +2625,6 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>1699892221181992</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>1700828524052596</eid>
@@ -2955,13 +2943,9 @@ Don B.A. Hader</text>
               <eid>1700278768238612</eid>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                <eid>1700283063205904</eid>
-                </Accidental>
               <pitch>63</pitch>
-              <tpc>23</tpc>
-              <tpc2>25</tpc2>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -4542,12 +4526,8 @@ Don B.A. Hader</text>
               <eid>2249721049514004</eid>
               <linked>
                 </linked>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                <eid>2249725344481296</eid>
-                </Accidental>
               <pitch>75</pitch>
-              <tpc>23</tpc>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -5166,6 +5146,7 @@ Don B.A. Hader</text>
             <eid>2281624066588787</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -5306,6 +5287,7 @@ Don B.A. Hader</text>
             <eid>2281800160247923</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -5446,6 +5428,7 @@ Don B.A. Hader</text>
             <eid>2281976253907059</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -5586,6 +5569,7 @@ Don B.A. Hader</text>
             <eid>2282152347566195</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -5726,6 +5710,7 @@ Don B.A. Hader</text>
             <eid>2282328441225331</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -5866,6 +5851,7 @@ Don B.A. Hader</text>
             <eid>2282504534884467</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -7185,13 +7171,6 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>2274185183232040</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>2275108601200756</eid>
@@ -8599,13 +8578,6 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>2289685720203304</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>2290609138172020</eid>
@@ -9564,6 +9536,7 @@ Don B.A. Hader</text>
             <eid>2277393523802227</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -9710,6 +9683,7 @@ Don B.A. Hader</text>
             <eid>2277569617461363</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -9856,6 +9830,7 @@ Don B.A. Hader</text>
             <eid>2277745711120499</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -10002,6 +9977,7 @@ Don B.A. Hader</text>
             <eid>2277921804779635</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -10148,6 +10124,7 @@ Don B.A. Hader</text>
             <eid>2278097898438771</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -10294,6 +10271,7 @@ Don B.A. Hader</text>
             <eid>2278273992097907</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>

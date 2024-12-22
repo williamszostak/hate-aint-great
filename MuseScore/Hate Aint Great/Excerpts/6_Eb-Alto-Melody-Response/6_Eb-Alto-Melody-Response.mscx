@@ -2,9 +2,9 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>2053964</LastEID>
+  <LastEID>2232737</LastEID>
   <Score>
-    <eid>8682353698275332</eid>
+    <eid>9450392635047940</eid>
     <name>E♭-Alto-Melody-Response</name>
     <initialPartId>21</initialPartId>
     <Division>480</Division>
@@ -140,7 +140,7 @@
               </location>
             </linked>
           <style>subtitle</style>
-          <text>December 2, 2024</text>
+          <text>December 8, 2024</text>
           </Text>
         <Text>
           <eid>3549386743218181</eid>
@@ -952,13 +952,6 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>3565686144106536</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>3566609562075252</eid>
@@ -2017,6 +2010,7 @@ Don B.A. Hader</text>
             <eid>3553093299994739</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2163,6 +2157,7 @@ Don B.A. Hader</text>
             <eid>3553312343326835</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2309,6 +2304,7 @@ Don B.A. Hader</text>
             <eid>3553531386658931</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2455,6 +2451,7 @@ Don B.A. Hader</text>
             <eid>3553750429991027</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2601,6 +2598,7 @@ Don B.A. Hader</text>
             <eid>3553965178355827</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2747,6 +2745,7 @@ Don B.A. Hader</text>
             <eid>3554175631753331</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -3640,6 +3639,7 @@ Don B.A. Hader</text>
             <eid>3553093299994739</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -3786,6 +3786,7 @@ Don B.A. Hader</text>
             <eid>3553312343326835</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -3932,6 +3933,7 @@ Don B.A. Hader</text>
             <eid>3553531386658931</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -4078,6 +4080,7 @@ Don B.A. Hader</text>
             <eid>3553750429991027</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -4224,6 +4227,7 @@ Don B.A. Hader</text>
             <eid>3553965178355827</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -4370,6 +4374,7 @@ Don B.A. Hader</text>
             <eid>3554175631753331</eid>
             <linked>
               </linked>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>

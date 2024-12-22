@@ -1,8 +1,32 @@
 {
     "tracks": [
         {
+            "instrumentId": "tenor-saxophone",
+            "partId": "18",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "bb-bass-clarinet",
+            "partId": "5",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "oboe",
             "partId": "19",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "cymbal",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -49,14 +73,6 @@
             }
         },
         {
-            "instrumentId": "cymbal",
-            "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "soprano-saxophone",
             "partId": "21",
             "soloMuteState": {
@@ -97,14 +113,6 @@
             }
         },
         {
-            "instrumentId": "bb-bass-clarinet",
-            "partId": "4",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "bb-trumpet",
             "partId": "24",
             "soloMuteState": {
@@ -114,15 +122,7 @@
         },
         {
             "instrumentId": "bb-bass-clarinet",
-            "partId": "5",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "tenor-saxophone",
-            "partId": "18",
+            "partId": "4",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

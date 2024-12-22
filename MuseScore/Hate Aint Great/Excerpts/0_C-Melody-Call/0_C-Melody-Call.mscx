@@ -2,9 +2,9 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>2050306</LastEID>
+  <LastEID>2229089</LastEID>
   <Score>
-    <eid>8635091878150148</eid>
+    <eid>9403233894137860</eid>
     <name>C-Melody-Call</name>
     <initialPartId>19</initialPartId>
     <Division>480</Division>
@@ -96,7 +96,7 @@
           <linked>
             </linked>
           <style>subtitle</style>
-          <text>December 2, 2024</text>
+          <text>December 8, 2024</text>
           </Text>
         <Text>
           <eid>3205381337645061</eid>
@@ -862,18 +862,17 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>3208031332466728</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>3209165203832948</eid>
                 <linked>
                   </linked>
+                <positionLinkedToMaster>0</positionLinkedToMaster>
+                <SlurSegment no="0">
+                  <o4 x="-5.11479" y="-2.86509e-16"/>
+                  <eid>8806963584434185</eid>
+                  <positionLinkedToMaster>0</positionLinkedToMaster>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2339,13 +2338,6 @@ Don B.A. Hader</text>
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>begin</syllabic>
-              <eid>3208031332466728</eid>
-              <linked>
-                </linked>
-              <text>Dem</text>
-              </Lyrics>
             <Spanner type="Slur">
               <Slur>
                 <eid>3209165203832948</eid>
