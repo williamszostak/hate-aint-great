@@ -20,7 +20,7 @@
     <minSystemDistance>8.5</minSystemDistance>
     <maxSystemDistance>15</maxSystemDistance>
     <alignSystemToMargin>1</alignSystemToMargin>
-    <enableVerticalSpread>1</enableVerticalSpread>
+    <enableVerticalSpread>0</enableVerticalSpread>
     <spreadSystem>2.5</spreadSystem>
     <spreadSquareBracket>1.2</spreadSquareBracket>
     <spreadCurlyBracket>1.1</spreadCurlyBracket>
@@ -180,7 +180,7 @@
     <articulationAnchorOther>0</articulationAnchorOther>
     <articulationStemHAlign>2</articulationStemHAlign>
     <articulationKeepTogether>1</articulationKeepTogether>
-    <lastSystemFillLimit>1</lastSystemFillLimit>
+    <lastSystemFillLimit>0</lastSystemFillLimit>
     <hairpinPlacement>1</hairpinPlacement>
     <hairpinPosAbove x="0" y="-1.75"/>
     <hairpinPosBelow x="0" y="1.75"/>
