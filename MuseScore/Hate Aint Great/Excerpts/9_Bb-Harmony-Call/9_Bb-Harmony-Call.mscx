@@ -2,9 +2,9 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>1968353</LastEID>
+  <LastEID>2055766</LastEID>
   <Score>
-    <eid>8331579424243716</eid>
+    <eid>8704043283120132</eid>
     <name>B♭-Harmony-Call</name>
     <initialPartId>6</initialPartId>
     <Division>480</Division>
@@ -1592,24 +1592,6 @@ Don B.A. Hader</text>
                 <measures>-1</measures>
                 </location>
               </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2.</beginText>
-              <eid>6174676912963648</eid>
-              <linked>
-                <location>
-                  <staves>-9</staves>
-                  </location>
-                </linked>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <fractions>1/1</fractions>
-                </location>
-              </next>
             </Spanner>
           <Rest>
             <eid>387972985782298</eid>
