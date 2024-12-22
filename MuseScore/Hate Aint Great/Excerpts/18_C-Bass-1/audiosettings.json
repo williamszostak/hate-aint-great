@@ -145,8 +145,8 @@
             }
         },
         {
-            "instrumentId": "trombone",
-            "partId": "11",
+            "instrumentId": "cymbal",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

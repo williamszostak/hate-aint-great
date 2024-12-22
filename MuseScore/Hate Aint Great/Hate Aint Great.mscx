@@ -2,7 +2,7 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>1760556</LastEID>
+  <LastEID>1962893</LastEID>
   <Score>
     <Division>480</Division>
     <showInvisible>1</showInvisible>
@@ -12,7 +12,7 @@
     <open>1</open>
     <metaTag name="arranger"></metaTag>
     <metaTag name="audioComUrl"></metaTag>
-    <metaTag name="composer">Composer / arranger</metaTag>
+    <metaTag name="composer">Don B.A. Hader</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2024-11-14</metaTag>
     <metaTag name="lyricist"></metaTag>
@@ -21,10 +21,10 @@
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="sourceRevisionId"></metaTag>
-    <metaTag name="subtitle">Subtitle</metaTag>
+    <metaTag name="subtitle">An LMB Original</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Untitled score</metaTag>
+    <metaTag name="workTitle">Hate Ain't Great</metaTag>
     <Part id="19">
       <Staff id="1">
         <StaffType group="pitched">
@@ -736,7 +736,7 @@
           <eid>601295421445</eid>
           <linkedMain/>
           <style>subtitle</style>
-          <text>December 1, 2024</text>
+          <text>December 2, 2024</text>
           </Text>
         <Text>
           <eid>605590388741</eid>
@@ -761,11 +761,11 @@ Don B.A. Hader</text>
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.833333</tempo>
+            <tempo>2</tempo>
             <followText>1</followText>
             <eid>61761629716527</eid>
             <linkedMain/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
             </Tempo>
           <SystemText>
             <swing unit="16th" ratio="60"/>
@@ -25951,37 +25951,37 @@ Don B.A. Hader</text>
               </Note>
             </Chord>
           <Chord>
-            <eid>2653057133314163</eid>
+            <eid>7869836080185459</eid>
             <linkedMain/>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <eid>2653070018215956</eid>
+              <eid>7869848965087252</eid>
               <linkedMain/>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
-            <eid>2653108672921715</eid>
+            <eid>7869887619793011</eid>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Note>
-              <eid>2653121557823508</eid>
+              <eid>7869900504694804</eid>
               <linkedMain/>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
-            <eid>2653160212529267</eid>
+            <eid>7869939159400563</eid>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Note>
-              <eid>2653173097431060</eid>
+              <eid>7869952044302356</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -25993,14 +25993,14 @@ Don B.A. Hader</text>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <eid>38066295144480</eid>
               <linkedMain/>
               </Articulation>
             <Note>
               <eid>35003983462420</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26027,7 +26027,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18734647345172</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26051,7 +26051,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18824841658388</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26063,8 +26063,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>52415780880404</eid>
               <linkedMain/>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -26074,8 +26074,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>17970143166484</eid>
               <linkedMain/>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -26085,8 +26085,8 @@ Don B.A. Hader</text>
             <Note>
               <eid>33986076213268</eid>
               <linkedMain/>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -26098,14 +26098,14 @@ Don B.A. Hader</text>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <eid>38066295144480</eid>
               <linkedMain/>
               </Articulation>
             <Note>
               <eid>35003983462420</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26132,7 +26132,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18734647345172</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26156,7 +26156,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18824841658388</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26168,7 +26168,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>52647709114388</eid>
               <linkedMain/>
-              <pitch>57</pitch>
+              <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -26179,7 +26179,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>38792144617492</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26190,7 +26190,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>38856569126932</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26205,7 +26205,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>39406324940820</eid>
               <linkedMain/>
-              <pitch>58</pitch>
+              <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -26232,7 +26232,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>49379239002132</eid>
               <linkedMain/>
-              <pitch>60</pitch>
+              <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
@@ -26248,14 +26248,14 @@ Don B.A. Hader</text>
                 </prev>
               </Spanner>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <eid>49091476193312</eid>
               <linkedMain/>
               </Articulation>
             <Note>
               <eid>49074296324116</eid>
               <linkedMain/>
-              <pitch>58</pitch>
+              <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -26267,7 +26267,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>53601191854100</eid>
               <linkedMain/>
-              <pitch>58</pitch>
+              <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -26278,7 +26278,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>22973780066324</eid>
               <linkedMain/>
-              <pitch>57</pitch>
+              <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -26289,7 +26289,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>23012434771988</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26302,14 +26302,14 @@ Don B.A. Hader</text>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <eid>38066295144480</eid>
               <linkedMain/>
               </Articulation>
             <Note>
               <eid>35003983462420</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26336,7 +26336,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18734647345172</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26361,7 +26361,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18824841658388</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26373,7 +26373,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>53747220742164</eid>
               <linkedMain/>
-              <pitch>62</pitch>
+              <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -26384,7 +26384,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>50113678409748</eid>
               <linkedMain/>
-              <pitch>60</pitch>
+              <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
@@ -26399,7 +26399,7 @@ Don B.A. Hader</text>
                 <subtype>accidentalNatural</subtype>
                 <eid>788663369728016</eid>
                 </Accidental>
-              <pitch>59</pitch>
+              <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
@@ -26414,7 +26414,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>45466523795476</eid>
               <linkedMain/>
-              <pitch>60</pitch>
+              <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
@@ -26441,7 +26441,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>49379239002132</eid>
               <linkedMain/>
-              <pitch>62</pitch>
+              <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -26457,14 +26457,14 @@ Don B.A. Hader</text>
                 </prev>
               </Spanner>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <eid>49091476193312</eid>
               <linkedMain/>
               </Articulation>
             <Note>
               <eid>49074296324116</eid>
               <linkedMain/>
-              <pitch>60</pitch>
+              <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
@@ -26476,7 +26476,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>53893249630228</eid>
               <linkedMain/>
-              <pitch>58</pitch>
+              <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
@@ -26487,7 +26487,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>46029164511252</eid>
               <linkedMain/>
-              <pitch>57</pitch>
+              <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
@@ -26498,7 +26498,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>46076409151508</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26511,14 +26511,14 @@ Don B.A. Hader</text>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <eid>38066295144480</eid>
               <linkedMain/>
               </Articulation>
             <Note>
               <eid>35003983462420</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26545,7 +26545,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18734647345172</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26569,7 +26569,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18824841658388</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26581,7 +26581,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>53992033878036</eid>
               <linkedMain/>
-              <pitch>52</pitch>
+              <pitch>40</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
@@ -26592,7 +26592,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>17970143166484</eid>
               <linkedMain/>
-              <pitch>50</pitch>
+              <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
@@ -26603,7 +26603,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>33986076213268</eid>
               <linkedMain/>
-              <pitch>48</pitch>
+              <pitch>36</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
@@ -26616,14 +26616,14 @@ Don B.A. Hader</text>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articAccentAbove</subtype>
+              <subtype>articAccentBelow</subtype>
               <eid>38066295144480</eid>
               <linkedMain/>
               </Articulation>
             <Note>
               <eid>35003983462420</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
@@ -26650,7 +26650,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18734647345172</eid>
               <linkedMain/>
-              <pitch>55</pitch>
+              <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
@@ -26674,7 +26674,7 @@ Don B.A. Hader</text>
             <Note>
               <eid>18824841658388</eid>
               <linkedMain/>
-              <pitch>53</pitch>
+              <pitch>41</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>

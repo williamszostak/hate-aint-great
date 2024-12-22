@@ -2,9 +2,9 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>1770938</LastEID>
+  <LastEID>1973278</LastEID>
   <Score>
-    <eid>7485049960136708</eid>
+    <eid>8393830680231940</eid>
     <name>Cymbals</name>
     <initialPartId>2</initialPartId>
     <Division>480</Division>
@@ -91,7 +91,7 @@
               </location>
             </linked>
           <style>subtitle</style>
-          <text>December 1, 2024</text>
+          <text>December 2, 2024</text>
           </Text>
         <Text>
           <eid>941877738078213</eid>
@@ -121,7 +121,7 @@ Don B.A. Hader</text>
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.833333</tempo>
+            <tempo>2</tempo>
             <followText>1</followText>
             <eid>941890622980143</eid>
             <linked>
@@ -130,7 +130,7 @@ Don B.A. Hader</text>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
             </Tempo>
           <SystemText>
             <swing unit="16th" ratio="60"/>
@@ -560,24 +560,6 @@ Don B.A. Hader</text>
                 <measures>-1</measures>
                 </location>
               </prev>
-            </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2.</beginText>
-              <eid>6174900251263040</eid>
-              <linked>
-                <location>
-                  <staves>-22</staves>
-                  </location>
-                </linked>
-              <endings>2</endings>
-              </Volta>
-            <next>
-              <location>
-                <fractions>1/1</fractions>
-                </location>
-              </next>
             </Spanner>
           <Rest>
             <eid>942358774415386</eid>
