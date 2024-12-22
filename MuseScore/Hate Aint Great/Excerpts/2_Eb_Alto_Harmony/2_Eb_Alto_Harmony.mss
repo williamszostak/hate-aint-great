@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.40">
   <Style>
-    <pageWidth>8.5</pageWidth>
-    <pageHeight>11</pageHeight>
-    <pagePrintableWidth>7.32</pagePrintableWidth>
-    <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-    <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-    <pageEvenTopMargin>0.54</pageEvenTopMargin>
-    <pageEvenBottomMargin>0.54</pageEvenBottomMargin>
-    <pageOddTopMargin>0.54</pageOddTopMargin>
-    <pageOddBottomMargin>0.54</pageOddBottomMargin>
+    <pageWidth>11</pageWidth>
+    <pageHeight>8.5</pageHeight>
+    <pagePrintableWidth>9.82</pagePrintableWidth>
+    <pageEvenLeftMargin>0.59</pageEvenLeftMargin>
+    <pageOddLeftMargin>0.59</pageOddLeftMargin>
+    <pageEvenTopMargin>0.59</pageEvenTopMargin>
+    <pageEvenBottomMargin>0.59</pageEvenBottomMargin>
+    <pageOddTopMargin>0.59</pageOddTopMargin>
+    <pageOddBottomMargin>0.59</pageOddBottomMargin>
     <pageTwosided>1</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
     <staffLowerBorder>7</staffLowerBorder>
@@ -20,7 +20,7 @@
     <minSystemDistance>8.5</minSystemDistance>
     <maxSystemDistance>15</maxSystemDistance>
     <alignSystemToMargin>1</alignSystemToMargin>
-    <enableVerticalSpread>1</enableVerticalSpread>
+    <enableVerticalSpread>0</enableVerticalSpread>
     <spreadSystem>2.5</spreadSystem>
     <spreadSquareBracket>1.2</spreadSquareBracket>
     <spreadCurlyBracket>1.1</spreadCurlyBracket>
@@ -180,7 +180,7 @@
     <articulationAnchorOther>0</articulationAnchorOther>
     <articulationStemHAlign>2</articulationStemHAlign>
     <articulationKeepTogether>1</articulationKeepTogether>
-    <lastSystemFillLimit>1</lastSystemFillLimit>
+    <lastSystemFillLimit>0.3</lastSystemFillLimit>
     <hairpinPlacement>1</hairpinPlacement>
     <hairpinPosAbove x="0" y="-1.75"/>
     <hairpinPosBelow x="0" y="1.75"/>
@@ -384,7 +384,7 @@
     <chordModifierAdjust>0</chordModifierAdjust>
     <concertPitch>0</concertPitch>
     <multiVoiceRestTwoSpaceOffset>0</multiVoiceRestTwoSpaceOffset>
-    <createMultiMeasureRests>0</createMultiMeasureRests>
+    <createMultiMeasureRests>1</createMultiMeasureRests>
     <minEmptyMeasures>2</minEmptyMeasures>
     <minMMRestWidth>6</minMMRestWidth>
     <mmRestNumberPos>-0.5</mmRestNumberPos>
@@ -1043,7 +1043,7 @@
     <rehearsalMarkPosBelow x="0" y="4"/>
     <rehearsalMarkMinDistance>0.5</rehearsalMarkMinDistance>
     <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-    <repeatLeftFontSize>18</repeatLeftFontSize>
+    <repeatLeftFontSize>11</repeatLeftFontSize>
     <repeatLeftLineSpacing>1</repeatLeftLineSpacing>
     <repeatLeftFontSpatiumDependent>1</repeatLeftFontSpatiumDependent>
     <repeatLeftFontStyle>0</repeatLeftFontStyle>
@@ -1532,6 +1532,6 @@
     <dummyMusicalSymbolsScale>1</dummyMusicalSymbolsScale>
     <autoplaceEnabled>1</autoplaceEnabled>
     <defaultsVersion>440</defaultsVersion>
-    <Spatium>1.74978</Spatium>
+    <Spatium>1.7526</Spatium>
     </Style>
   </museScore>
