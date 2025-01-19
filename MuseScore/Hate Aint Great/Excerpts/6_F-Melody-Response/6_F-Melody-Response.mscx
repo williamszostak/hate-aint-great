@@ -2,7 +2,7 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>2641266</LastEID>
+  <LastEID>2737605</LastEID>
   <Score>
     <eid>9493892063821828</eid>
     <name>F-Melody-Response</name>
@@ -117,7 +117,7 @@
               </location>
             </linked>
           <style>subtitle</style>
-          <text>Jan 12, 2025</text>
+          <text>Jan 20, 2025</text>
           </Text>
         <Text>
           <eid>918427216642053</eid>
@@ -163,7 +163,7 @@ Don B.A. Hader</text>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 110</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110</text>
             </Tempo>
           <SystemText>
             <swing unit="16th" ratio="60"/>

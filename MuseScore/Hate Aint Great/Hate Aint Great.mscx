@@ -2,7 +2,7 @@
 <museScore version="4.40">
   <programVersion>4.4.4</programVersion>
   <programRevision>2232670</programRevision>
-  <LastEID>2639592</LastEID>
+  <LastEID>2736105</LastEID>
   <Score>
     <Division>480</Division>
     <showInvisible>1</showInvisible>
@@ -736,7 +736,7 @@
           <eid>601295421445</eid>
           <linkedMain/>
           <style>subtitle</style>
-          <text>Jan 12, 2025</text>
+          <text>Jan 20, 2025</text>
           </Text>
         <Text>
           <eid>605590388741</eid>
@@ -765,7 +765,7 @@ Don B.A. Hader</text>
             <followText>1</followText>
             <eid>61761629716527</eid>
             <linkedMain/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 110</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 110</text>
             </Tempo>
           <SystemText>
             <swing unit="16th" ratio="60"/>
@@ -2027,13 +2027,6 @@ Don B.A. Hader</text>
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <Spanner type="Volta">
-            <prev>
-              <location>
-                <fractions>-1/1</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Spanner type="Volta">
             <prev>
               <location>
