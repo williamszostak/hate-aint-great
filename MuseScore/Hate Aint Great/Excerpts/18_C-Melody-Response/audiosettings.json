@@ -1,14 +1,6 @@
 {
     "tracks": [
         {
-            "instrumentId": "tenor-saxophone",
-            "partId": "18",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "alto-saxophone",
             "partId": "22",
             "soloMuteState": {
@@ -25,32 +17,16 @@
             }
         },
         {
-            "instrumentId": "baritone-saxophone",
-            "partId": "7",
+            "instrumentId": "tenor-saxophone",
+            "partId": "18",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "oboe",
-            "partId": "20",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "bb-trumpet",
-            "partId": "23",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "flute",
-            "partId": "13",
+            "instrumentId": "horn",
+            "partId": "26",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -76,7 +52,7 @@
             "instrumentId": "flute",
             "partId": "14",
             "soloMuteState": {
-                "mute": true,
+                "mute": false,
                 "solo": false
             }
         },
@@ -89,8 +65,8 @@
             }
         },
         {
-            "instrumentId": "horn",
-            "partId": "16",
+            "instrumentId": "oboe",
+            "partId": "19",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -98,15 +74,23 @@
         },
         {
             "instrumentId": "baritone-saxophone",
-            "partId": "8",
+            "partId": "7",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "trombone",
-            "partId": "12",
+            "instrumentId": "bb-trumpet",
+            "partId": "23",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "oboe",
+            "partId": "20",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -161,14 +145,6 @@
             }
         },
         {
-            "instrumentId": "soprano-saxophone",
-            "partId": "21",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "tenor-saxophone",
             "partId": "1",
             "soloMuteState": {
@@ -177,16 +153,40 @@
             }
         },
         {
-            "instrumentId": "horn",
-            "partId": "26",
+            "instrumentId": "soprano-saxophone",
+            "partId": "21",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "oboe",
-            "partId": "19",
+            "instrumentId": "alto-saxophone",
+            "partId": "9",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "horn",
+            "partId": "16",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "trombone",
+            "partId": "12",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "baritone-saxophone",
+            "partId": "8",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

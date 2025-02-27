@@ -1,14 +1,6 @@
 {
     "tracks": [
         {
-            "instrumentId": "tenor-saxophone",
-            "partId": "18",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "alto-saxophone",
             "partId": "22",
             "soloMuteState": {
@@ -25,32 +17,8 @@
             }
         },
         {
-            "instrumentId": "baritone-saxophone",
-            "partId": "7",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "oboe",
-            "partId": "20",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "bb-trumpet",
-            "partId": "23",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "flute",
-            "partId": "13",
+            "instrumentId": "tenor-saxophone",
+            "partId": "18",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -58,47 +26,7 @@
         },
         {
             "instrumentId": "horn",
-            "partId": "15",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "trombone",
-            "partId": "11",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "flute",
-            "partId": "14",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "cymbal",
-            "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "horn",
-            "partId": "16",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "baritone-saxophone",
-            "partId": "8",
+            "partId": "26",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -113,8 +41,48 @@
             }
         },
         {
-            "instrumentId": "tenor-saxophone",
-            "partId": "6",
+            "instrumentId": "baritone-saxophone",
+            "partId": "8",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "horn",
+            "partId": "16",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "horn",
+            "partId": "15",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "bb-trumpet",
+            "partId": "23",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "oboe",
+            "partId": "20",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "baritone-saxophone",
+            "partId": "7",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -123,6 +91,38 @@
         {
             "instrumentId": "bb-trumpet",
             "partId": "24",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tenor-saxophone",
+            "partId": "6",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "flute",
+            "partId": "13",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "tenor-saxophone",
+            "partId": "17",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "bassoon",
+            "partId": "21",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -146,15 +146,7 @@
         },
         {
             "instrumentId": "tenor-saxophone",
-            "partId": "17",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "instrumentId": "bassoon",
-            "partId": "21",
+            "partId": "1",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -169,24 +161,32 @@
             }
         },
         {
-            "instrumentId": "tenor-saxophone",
-            "partId": "1",
+            "instrumentId": "alto-saxophone",
+            "partId": "9",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "horn",
-            "partId": "26",
+            "instrumentId": "cymbal",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "oboe",
-            "partId": "19",
+            "instrumentId": "flute",
+            "partId": "14",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "trombone",
+            "partId": "11",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
